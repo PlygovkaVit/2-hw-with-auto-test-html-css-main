@@ -103,7 +103,7 @@ select {
     font-weight: 400;
     font-size: 16px;
     color: #303030;
-    padding-left: 0px 20px;
+    padding: 0px 20px;
     /* Стили для нумерованного списка во второй секции */
 }
 
@@ -144,7 +144,7 @@ select {
 }
 
 .line {
-    margin-bottom: 60px;
+    margin-bottom: 60px 0px;
     /* Стили для линии */
 }
 
