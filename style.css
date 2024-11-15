@@ -94,7 +94,7 @@ select {
     color: #303030;
     list-style-image: url(./assets/images/Vector1.svg);
     /* padding-left: 25px; */
-    padding: 0px 20px;
+    padding: 0px 25px;
     /* Стили для маркированного списка во второй секции */
 }
 
@@ -150,13 +150,17 @@ select {
 
 table {
     border-collapse: collapse;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #303030;     
     /* Стили для таблицы */
 }
 
 th, td {
-    border: 1px solid #95a1bb;
-    width: 113px;
-    height: 40px;
+    /* border: 1px solid #95a1bb; */
+    /* width: 113px;
+    height: 40px; */ 
     padding: 11px 15px;
 /* Стили для ячеек таблицы */
 }
