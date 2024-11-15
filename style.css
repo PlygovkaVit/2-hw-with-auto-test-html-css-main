@@ -144,7 +144,8 @@ select {
 }
 
 .line {
-    margin-bottom: 60px 0px;
+    margin-top: 0px;
+    margin-bottom: 60px;
     /* Стили для линии */
 }
 
